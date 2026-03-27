@@ -15,16 +15,18 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishtech11&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krishtech11&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krishtech11&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 Featured Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=krishtech11&icon=0&color=0)](https://visitcount.itsvg.in)
+- **UAOS – AI-Based Automation System**
+  Backend system for executing multi-step workflows across web, desktop, and documents
+
+- **BCI + IoT Smart Home**
+  Control system using EEG/EMG signals with real-time safety mechanisms
+
+- **Stock Market Prediction System**
+  Data-driven model for analyzing and predicting stock trends
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
