@@ -19,7 +19,7 @@
 ## 🚀 Featured Projects
 
 ### 🔹 UAOS – AI-Based Automation System  
-![Automation](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=Automation)
+![Automation](https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions)
 ![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
 
