@@ -13,20 +13,33 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=krishtech11&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishtech11&layout=compact&theme=tokyonight)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🚀 Featured Projects
 
-- **UAOS – AI-Based Automation System**
-  Backend system for executing multi-step workflows across web, desktop, and documents
+### 🔹 UAOS – AI-Based Automation System  
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
 
-- **BCI + IoT Smart Home**
-  Control system using EEG/EMG signals with real-time safety mechanisms
+Backend system to execute multi-step workflows across web, desktop, and documents using automation tools and APIs.
 
-- **Stock Market Prediction System**
-  Data-driven model for analyzing and predicting stock trends
+---
 
+### 🔹 BCI + IoT Smart Home  
+![IoT](https://img.shields.io/badge/IoT-111827?style=for-the-badge)
+![Embedded](https://img.shields.io/badge/Embedded-111827?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+
+System to control home appliances using EEG/EMG signals with real-time safety mechanisms.
+
+---
+
+### 🔹 Stock Market Prediction System  
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas)
+
+Data-driven system for analyzing trends and predicting stock movements.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
